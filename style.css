@@ -36,6 +36,7 @@ li{
     margin-top:0.5%;
     
 }
+
 a{
     text-decoration: none;
     color:crimson;
@@ -47,9 +48,7 @@ a:hover{
     animation-duration: 0.5s;
     animation-name: ballz;
 }
-.stilato{
 
-}
 .articolazzi{
     display:block;
     width:70%;
@@ -59,6 +58,29 @@ a:hover{
 }
 .listate{
     text-align: left;
+}
+.sommarioA{
+    color:purple;
+}
+.sommarioA:hover{
+    cursor:grab;
+    font-weight: 200;
+}
+.titoloSommario{
+    color:black;
+}
+
+.sommarioElements{
+    text-align: left;
+    color:purple;
+    height:100%;
+    margin-left: 10%;
+    margin-right:10%;
+    align-items: center;
+    vertical-align:middle;
+}
+.titolazzo{
+    text-decoration: underline;
 }
 
 
