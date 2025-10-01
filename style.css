@@ -41,6 +41,7 @@ a{
     text-decoration: none;
     color:crimson;
     font-weight: 200;
+    padding-left:1%;
 
 }
 a:hover{
@@ -81,6 +82,10 @@ a:hover{
 }
 .titolazzo{
     text-decoration: underline;
+}
+.highlight{
+    background-color:gold;
+    border-radius: 10px;
 }
 
 
